@@ -16,7 +16,9 @@ object-assign
   http://jedwatson.github.io/classnames
 */
 
-/*! countries-list v3.1.1 by Annexare | MIT */
+/*! countries-list v2.6.1 by Annexare | MIT */
+
+/*! regenerator-runtime -- Copyright (c) 2014-present, Facebook, Inc. -- license (MIT): https://github.com/facebook/regenerator/blob/main/LICENSE */
 
 /**
  * @license React
@@ -70,7 +72,7 @@ object-assign
 
 /**
  * @license React
- * use-sync-external-store-with-selector.production.min.js
+ * use-sync-external-store-shim.production.min.js
  *
  * Copyright (c) Facebook, Inc. and its affiliates.
  *
@@ -79,7 +81,17 @@ object-assign
  */
 
 /**
- * @remix-run/router v1.19.2
+ * @license React
+ * use-sync-external-store-shim/with-selector.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * @remix-run/router v1.2.1
  *
  * Copyright (c) Remix Software Inc.
  *
@@ -90,7 +102,7 @@ object-assign
  */
 
 /**
- * React Router DOM v6.26.2
+ * React Router DOM v6.6.1
  *
  * Copyright (c) Remix Software Inc.
  *
@@ -101,7 +113,7 @@ object-assign
  */
 
 /**
- * React Router v6.26.2
+ * React Router v6.6.1
  *
  * Copyright (c) Remix Software Inc.
  *
